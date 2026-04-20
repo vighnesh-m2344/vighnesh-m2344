@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Vighnesh 👋
 
-<!--
-**vighnesh-m2344/vighnesh-m2344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+🚀 Building scalable web applications  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Frontend: React, JavaScript, Tailwind CSS  
+- Backend: Node.js, Express  
+- Database: PostgreSQL, Prisma  
+- Caching: Redis  
+- Tools: Git, GitHub, Postman  
+
+---
+
+## 🚀 Projects
+
+### 🔹 TalentMatch
+Full-stack job portal with secure authentication, admin dashboard, resume upload, and Redis caching for performance optimization.  
+Built using React, Node.js, Express, PostgreSQL, and Prisma.  
+
+🔗 Live: https://talentmatch-ai-theta.vercel.app  
+
+---
+
+### 🔹 URL Shortener
+Backend-focused project to generate short URLs with unique ID mapping and redirection logic.  
+Demonstrates REST API design and backend fundamentals using Node.js and Express.  
+
+---
+
+## 📈 Current Focus
+- Data Structures & Algorithms  
+- Backend Development  
+- System Design basics  
+
+---
+
+## 📫 Connect with me
+- GitHub: https://github.com/vighnesh-m2344
