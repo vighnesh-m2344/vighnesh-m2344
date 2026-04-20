@@ -1,17 +1,32 @@
-# Hi, I'm Vighnesh 👋
+# Hi, I am Vighnesh 👋
 
-💻 Full Stack Developer  
-🚀 Building scalable web applications  
+🚀 Full Stack Developer building scalable web applications with React, Node.js, and PostgreSQL.  
+
+💻 Focused on backend systems, performance, and real-world projects  
 📍 India  
 
 ---
 
 ## 🛠️ Tech Stack
-- Frontend: React, JavaScript, Tailwind CSS  
-- Backend: Node.js, Express  
-- Database: PostgreSQL, Prisma  
-- Caching: Redis  
-- Tools: Git, GitHub, Postman  
+
+**Frontend**
+- React  
+- JavaScript  
+- Tailwind CSS  
+
+**Backend**
+- Node.js  
+- Express.js  
+
+**Database**
+- PostgreSQL  
+- Prisma ORM  
+
+**Tools & Platforms**
+- Git & GitHub  
+- Postman  
+- Vercel  
+- Render  
 
 ---
 
@@ -26,12 +41,16 @@ Built using React, Node.js, Express, PostgreSQL, and Prisma.
 ---
 
 ### 🔹 URL Shortener
-Backend-focused project to generate short URLs with unique ID mapping and redirection logic.  
-Demonstrates REST API design and backend fundamentals using Node.js and Express.  
+Production-ready URL shortener with custom IDs, analytics, and QR code generation.  
+Implements REST APIs, click tracking, and PostgreSQL integration using Node.js and Express.  
+
+🌐 Frontend: https://vighnesh-shortener.netlify.app  
+⚙️ Backend: https://url-shortener-z980.onrender.com  
 
 ---
 
 ## 📈 Current Focus
+
 - Data Structures & Algorithms  
 - Backend Development  
 - System Design basics  
@@ -39,4 +58,5 @@ Demonstrates REST API design and backend fundamentals using Node.js and Express.
 ---
 
 ## 📫 Connect with me
+
 - GitHub: https://github.com/vighnesh-m2344
